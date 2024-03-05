@@ -8,7 +8,7 @@
 
 ```
 git clone git clone git@github.com:lzc1220/jike_article.git
-cd final/fe
+cd jike_article/react-jike
 
 npm install
 
@@ -17,6 +17,13 @@ npm run start
 
 #production
 npm run build
+```
+
+### 登录
+
+```js
+账号：13800000002
+验证码：246810
 ```
 
 ## 技术特点
